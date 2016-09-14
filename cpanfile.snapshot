@@ -1,0 +1,8 @@
+# carton snapshot format: version 1.0
+DISTRIBUTIONS
+  Array-Shuffle-0.03
+    pathname: S/SA/SALVA/Array-Shuffle-0.03.tar.gz
+    provides:
+      Array::Shuffle 0.03
+    requirements:
+      ExtUtils::MakeMaker 0
